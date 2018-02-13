@@ -1,0 +1,19 @@
+h1{
+    color: chocolate;
+}
+#css{
+    color: skyblue;
+    border: 3px solid #ff584f;
+    margin: 10%;
+    padding: 50px 30px 50px 80px;
+}
+#css2{
+    font-size: 40px;
+    margin: 10%;
+}
+.G1{
+    color: darkcyan;
+}
+.G2{
+    font-size: 60px;
+}
