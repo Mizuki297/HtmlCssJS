@@ -1,5 +1,5 @@
-var ArrayUser = [];
-var a = document.getElementById("a").style.display="block",
+let ArrayUser = [];
+let a = document.getElementById("a").style.display="block",
     b = document.getElementById("b").style.display="none";
     function Regiter(){ 
 
